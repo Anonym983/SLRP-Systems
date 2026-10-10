@@ -923,4 +923,4 @@ async def hilfe(i: discord.Interaction):
     await i.response.send_message(embed=e, ephemeral=True)
 
 
-bot.run(TOKEN)
+bot.run(os.getenv("DISCORD_TOKEN"))
