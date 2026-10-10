@@ -21,7 +21,11 @@ DESIGN = {
     "WARN": 0xDD6B20,      # Orange
     "NEUTRAL": 0x718096,   # Grau: Logs
     "STATUS": "📍Offizieller Bot von SLRP 
+               
+                
                🔒 Alle Rechte Vorbehalten sowie Copyright Geschützt
+               
+               
                📱 Entwickelt von Timo [Developer]",
     "WELCOME_TEXT": "Willkommen auf dem Server, {user}! Schön, dass du da bist. Du bist Mitglied Nr. {count}.",
     "LEAVE_TEXT": "{name} hat den Server verlassen.",
