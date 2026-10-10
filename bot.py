@@ -12,7 +12,7 @@ from discord.ext import commands
 #    Farben sind Hex-Codes: 0x + 6 Zeichen (z. B. 0xFF0000 = Rot)
 # =====================================================================================
 DESIGN = {
-    "FOOTER": "Notruf Hamburg RP",
+    "FOOTER": "Made by Timo",
     "FOOTER_TEAM": "Notruf Hamburg Teamverwaltung",
     "FOOTER_TICKET": "Notruf Hamburg Ticketsystem",
     "PRIMARY": 0x8E44AD,   # Lila: Standard
@@ -20,7 +20,7 @@ DESIGN = {
     "ERROR": 0xE53E3E,     # Rot
     "WARN": 0xDD6B20,      # Orange
     "NEUTRAL": 0x718096,   # Grau: Logs
-    "STATUS": "Made by Timo",
+    "STATUS": "Online",
     "WELCOME_TEXT": "Willkommen auf dem Server, {user}! Schön, dass du da bist. Du bist Mitglied Nr. {count}.",
     "LEAVE_TEXT": "{name} hat den Server verlassen.",
     "VERIFY_TEXT": "Klicke auf den Button, um dich zu verifizieren und den Server freizuschalten.",
