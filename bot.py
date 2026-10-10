@@ -20,15 +20,11 @@ DESIGN = {
     "ERROR": 0xE53E3E,     # Rot
     "WARN": 0xDD6B20,      # Orange
     "NEUTRAL": 0x718096,   # Grau: Logs
-    "STATUS": "📍Offizieller Bot von SLRP 
-               
-                
-               🔒 Alle Rechte Vorbehalten sowie Copyright Geschützt
-               
-               
-               📱 Entwickelt von Timo [Developer]",
-    "WELCOME_TEXT": "Willkommen auf dem Server, {user}! Schön, dass du da bist. Du bist Mitglied Nr. {count}.",
-    "LEAVE_TEXT": "{name} hat den Server verlassen.",
+    "STATUS": "📍Offizieller Bot von SLRP  
+    🔒 Alle Rechte Vorbehalten sowie Copyright Geschützt 
+    📱 Entwickelt von Timo [Developer]",
+    "WELCOME_TEXT": "👋 Hey {user} Schön das du da bist. Schau dir kurz das Regelwerk an, damit du gut vorbeireitet bist. Viel Spaß wünscht dir Streetlife-Rp | VC 🌟.",
+    "LEAVE_TEXT": "👋 Tschüss {name} Danke das du auf SLRP warst hoffentlich sehen wir dich bald wieder💫.",
     "VERIFY_TEXT": "Klicke auf den Button, um dich zu verifizieren und den Server freizuschalten.",
     "SEP": "────────────────────────",   # Trennlinie in den Team-Embeds
     "MAX_WARNS": 3,                      # Anzeige "Warnungen: 1/3"
